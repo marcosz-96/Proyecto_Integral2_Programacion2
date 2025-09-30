@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Proyecto Integral 2\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1DE6653D-FFA8-4C63-842C-9CF6189EA9A3}|AppDeliveyGo\\AppDeliveyGo.csproj|c:\\users\\usuario\\onedrive\\desktop\\proyecto integral 2\\proyecto_integral2_programacion2\\appdeliveygo\\appdeliveygo\\core\\strategy\\envioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE6653D-FFA8-4C63-842C-9CF6189EA9A3}|AppDeliveyGo\\AppDeliveyGo.csproj|solutionrelative:appdeliveygo\\core\\strategy\\envioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE6653D-FFA8-4C63-842C-9CF6189EA9A3}|AppDeliveyGo\\AppDeliveyGo.csproj|c:\\users\\usuario\\onedrive\\desktop\\proyecto integral 2\\proyecto_integral2_programacion2\\appdeliveygo\\appdeliveygo\\core\\strategy\\retiroentienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE6653D-FFA8-4C63-842C-9CF6189EA9A3}|AppDeliveyGo\\AppDeliveyGo.csproj|solutionrelative:appdeliveygo\\core\\strategy\\retiroentienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE6653D-FFA8-4C63-842C-9CF6189EA9A3}|AppDeliveyGo\\AppDeliveyGo.csproj|c:\\users\\usuario\\onedrive\\desktop\\proyecto integral 2\\proyecto_integral2_programacion2\\appdeliveygo\\appdeliveygo\\core\\strategy\\enviocorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE6653D-FFA8-4C63-842C-9CF6189EA9A3}|AppDeliveyGo\\AppDeliveyGo.csproj|solutionrelative:appdeliveygo\\core\\strategy\\enviocorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE6653D-FFA8-4C63-842C-9CF6189EA9A3}|AppDeliveyGo\\AppDeliveyGo.csproj|c:\\users\\usuario\\onedrive\\desktop\\proyecto integral 2\\proyecto_integral2_programacion2\\appdeliveygo\\appdeliveygo\\core\\strategy\\enviomoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE6653D-FFA8-4C63-842C-9CF6189EA9A3}|AppDeliveyGo\\AppDeliveyGo.csproj|solutionrelative:appdeliveygo\\core\\strategy\\enviomoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE6653D-FFA8-4C63-842C-9CF6189EA9A3}|AppDeliveyGo\\AppDeliveyGo.csproj|c:\\users\\usuario\\onedrive\\desktop\\proyecto integral 2\\proyecto_integral2_programacion2\\appdeliveygo\\appdeliveygo\\core\\singleton\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE6653D-FFA8-4C63-842C-9CF6189EA9A3}|AppDeliveyGo\\AppDeliveyGo.csproj|solutionrelative:appdeliveygo\\core\\singleton\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE6653D-FFA8-4C63-842C-9CF6189EA9A3}|AppDeliveyGo\\AppDeliveyGo.csproj|c:\\users\\usuario\\onedrive\\desktop\\proyecto integral 2\\proyecto_integral2_programacion2\\appdeliveygo\\appdeliveygo\\core\\contract\\ienviostrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE6653D-FFA8-4C63-842C-9CF6189EA9A3}|AppDeliveyGo\\AppDeliveyGo.csproj|solutionrelative:appdeliveygo\\core\\contract\\ienviostrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1DE6653D-FFA8-4C63-842C-9CF6189EA9A3}|AppDeliveyGo\\AppDeliveyGo.csproj|c:\\users\\usuario\\onedrive\\desktop\\proyecto integral 2\\proyecto_integral2_programacion2\\appdeliveygo\\appdeliveygo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DE6653D-FFA8-4C63-842C-9CF6189EA9A3}|AppDeliveyGo\\AppDeliveyGo.csproj|solutionrelative:appdeliveygo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -59,19 +83,97 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EnvioService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Proyecto Integral 2\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\AppDeliveyGo\\Core\\Strategy\\EnvioService.cs",
+              "RelativeDocumentMoniker": "AppDeliveyGo\\Core\\Strategy\\EnvioService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Proyecto Integral 2\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\AppDeliveyGo\\Core\\Strategy\\EnvioService.cs",
+              "RelativeToolTip": "AppDeliveyGo\\Core\\Strategy\\EnvioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T02:28:27.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RetiroEnTienda.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Proyecto Integral 2\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\AppDeliveyGo\\Core\\Strategy\\RetiroEnTienda.cs",
+              "RelativeDocumentMoniker": "AppDeliveyGo\\Core\\Strategy\\RetiroEnTienda.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Proyecto Integral 2\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\AppDeliveyGo\\Core\\Strategy\\RetiroEnTienda.cs",
+              "RelativeToolTip": "AppDeliveyGo\\Core\\Strategy\\RetiroEnTienda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T02:27:49.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnvioCorreo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Proyecto Integral 2\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\AppDeliveyGo\\Core\\Strategy\\EnvioCorreo.cs",
+              "RelativeDocumentMoniker": "AppDeliveyGo\\Core\\Strategy\\EnvioCorreo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Proyecto Integral 2\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\AppDeliveyGo\\Core\\Strategy\\EnvioCorreo.cs",
+              "RelativeToolTip": "AppDeliveyGo\\Core\\Strategy\\EnvioCorreo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T02:26:58.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnvioMoto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Proyecto Integral 2\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\AppDeliveyGo\\Core\\Strategy\\EnvioMoto.cs",
+              "RelativeDocumentMoniker": "AppDeliveyGo\\Core\\Strategy\\EnvioMoto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Proyecto Integral 2\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\AppDeliveyGo\\Core\\Strategy\\EnvioMoto.cs",
+              "RelativeToolTip": "AppDeliveyGo\\Core\\Strategy\\EnvioMoto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T02:26:21.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfigManager.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Proyecto Integral 2\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\AppDeliveyGo\\Core\\Singleton\\ConfigManager.cs",
+              "RelativeDocumentMoniker": "AppDeliveyGo\\Core\\Singleton\\ConfigManager.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Proyecto Integral 2\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\AppDeliveyGo\\Core\\Singleton\\ConfigManager.cs",
+              "RelativeToolTip": "AppDeliveyGo\\Core\\Singleton\\ConfigManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T02:25:28.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEnvioStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Proyecto Integral 2\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\AppDeliveyGo\\Core\\Contract\\IEnvioStrategy.cs",
+              "RelativeDocumentMoniker": "AppDeliveyGo\\Core\\Contract\\IEnvioStrategy.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Proyecto Integral 2\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\AppDeliveyGo\\Core\\Contract\\IEnvioStrategy.cs",
+              "RelativeToolTip": "AppDeliveyGo\\Core\\Contract\\IEnvioStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T02:24:32.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Proyecto Integral 2\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\AppDeliveyGo\\Program.cs",
               "RelativeDocumentMoniker": "AppDeliveyGo\\Program.cs",
               "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Proyecto Integral 2\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\AppDeliveyGo\\Program.cs",
               "RelativeToolTip": "AppDeliveyGo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T00:14:03.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "ICommand.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Proyecto Integral 2\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\AppDeliveyGo\\Core\\Contract\\ICommand.cs",
               "RelativeDocumentMoniker": "AppDeliveyGo\\Core\\Contract\\ICommand.cs",
@@ -83,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "CarritoPort.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Proyecto Integral 2\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\AppDeliveyGo\\Core\\Command\\CarritoPort.cs",
               "RelativeDocumentMoniker": "AppDeliveyGo\\Core\\Command\\CarritoPort.cs",
@@ -95,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "SetCantidadCommand.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Proyecto Integral 2\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\AppDeliveyGo\\Core\\Command\\SetCantidadCommand.cs",
               "RelativeDocumentMoniker": "AppDeliveyGo\\Core\\Command\\SetCantidadCommand.cs",
@@ -107,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "QuitarItemCommand.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Proyecto Integral 2\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\AppDeliveyGo\\Core\\Command\\QuitarItemCommand.cs",
               "RelativeDocumentMoniker": "AppDeliveyGo\\Core\\Command\\QuitarItemCommand.cs",
@@ -119,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "AgregarItemCommand.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Proyecto Integral 2\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\AppDeliveyGo\\Core\\Command\\AgregarItemCommand.cs",
               "RelativeDocumentMoniker": "AppDeliveyGo\\Core\\Command\\AgregarItemCommand.cs",
@@ -131,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "EditorCarrito.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Proyecto Integral 2\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\AppDeliveyGo\\Core\\Command\\EditorCarrito.cs",
               "RelativeDocumentMoniker": "AppDeliveyGo\\Core\\Command\\EditorCarrito.cs",
@@ -143,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Carrito.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Proyecto Integral 2\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\AppDeliveyGo\\Core\\Command\\Carrito.cs",
               "RelativeDocumentMoniker": "AppDeliveyGo\\Core\\Command\\Carrito.cs",
@@ -155,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Proyecto Integral 2\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\AppDeliveyGo\\Core\\Command\\Item.cs",
               "RelativeDocumentMoniker": "AppDeliveyGo\\Core\\Command\\Item.cs",
@@ -167,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "ICarritoPort.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Proyecto Integral 2\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\AppDeliveyGo\\Core\\Contract\\ICarritoPort.cs",
               "RelativeDocumentMoniker": "AppDeliveyGo\\Core\\Contract\\ICarritoPort.cs",
@@ -179,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "AppDeliveyGo.csproj",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Proyecto Integral 2\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\AppDeliveyGo\\AppDeliveyGo.csproj",
               "RelativeDocumentMoniker": "AppDeliveyGo\\AppDeliveyGo.csproj",
