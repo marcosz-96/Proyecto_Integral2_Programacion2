@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Integral 2\Proyecto_Integral2_Programacion2\AppDeliveyGo\AppDeliveyGo\bin\Debug\net9.0\AppDeliveyGo.exe
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Integral 2\Proyecto_Integral2_Programacion2\AppDeliveyGo\AppDeliveyGo\bin\Debug\net9.0\AppDeliveyGo.deps.json
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Integral 2\Proyecto_Integral2_Programacion2\AppDeliveyGo\AppDeliveyGo\bin\Debug\net9.0\AppDeliveyGo.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Integral 2\Proyecto_Integral2_Programacion2\AppDeliveyGo\AppDeliveyGo\bin\Debug\net9.0\AppDeliveyGo.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Integral 2\Proyecto_Integral2_Programacion2\AppDeliveyGo\AppDeliveyGo\bin\Debug\net9.0\AppDeliveyGo.pdb
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Integral 2\Proyecto_Integral2_Programacion2\AppDeliveyGo\AppDeliveyGo\obj\Debug\net9.0\AppDeliveyGo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Integral 2\Proyecto_Integral2_Programacion2\AppDeliveyGo\AppDeliveyGo\obj\Debug\net9.0\AppDeliveyGo.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Integral 2\Proyecto_Integral2_Programacion2\AppDeliveyGo\AppDeliveyGo\obj\Debug\net9.0\AppDeliveyGo.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Integral 2\Proyecto_Integral2_Programacion2\AppDeliveyGo\AppDeliveyGo\obj\Debug\net9.0\AppDeliveyGo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Integral 2\Proyecto_Integral2_Programacion2\AppDeliveyGo\AppDeliveyGo\obj\Debug\net9.0\AppDeliveyGo.sourcelink.json
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Integral 2\Proyecto_Integral2_Programacion2\AppDeliveyGo\AppDeliveyGo\obj\Debug\net9.0\AppDeliveyGo.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Integral 2\Proyecto_Integral2_Programacion2\AppDeliveyGo\AppDeliveyGo\obj\Debug\net9.0\refint\AppDeliveyGo.dll
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Integral 2\Proyecto_Integral2_Programacion2\AppDeliveyGo\AppDeliveyGo\obj\Debug\net9.0\AppDeliveyGo.pdb
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Integral 2\Proyecto_Integral2_Programacion2\AppDeliveyGo\AppDeliveyGo\obj\Debug\net9.0\AppDeliveyGo.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Desktop\Proyecto Integral 2\Proyecto_Integral2_Programacion2\AppDeliveyGo\AppDeliveyGo\obj\Debug\net9.0\ref\AppDeliveyGo.dll
