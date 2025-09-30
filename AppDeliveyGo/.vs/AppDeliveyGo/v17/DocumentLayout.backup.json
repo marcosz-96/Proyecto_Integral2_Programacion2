@@ -64,7 +64,7 @@
               "RelativeDocumentMoniker": "AppDeliveyGo\\Program.cs",
               "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Proyecto Integral 2\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\AppDeliveyGo\\Program.cs",
               "RelativeToolTip": "AppDeliveyGo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T00:14:03.846Z",
               "EditorCaption": ""
@@ -79,8 +79,7 @@
               "RelativeToolTip": "AppDeliveyGo\\Core\\Contract\\ICommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T23:01:34.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T23:01:34.466Z"
             },
             {
               "$type": "Document",
@@ -92,8 +91,7 @@
               "RelativeToolTip": "AppDeliveyGo\\Core\\Command\\CarritoPort.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAgwCAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T22:22:31.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T22:22:31.169Z"
             },
             {
               "$type": "Document",
@@ -105,8 +103,7 @@
               "RelativeToolTip": "AppDeliveyGo\\Core\\Command\\SetCantidadCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T22:21:39.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T22:21:39.039Z"
             },
             {
               "$type": "Document",
@@ -118,8 +115,7 @@
               "RelativeToolTip": "AppDeliveyGo\\Core\\Command\\QuitarItemCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T22:21:20.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T22:21:20.141Z"
             },
             {
               "$type": "Document",
@@ -131,8 +127,7 @@
               "RelativeToolTip": "AppDeliveyGo\\Core\\Command\\AgregarItemCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T22:21:03.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T22:21:03.284Z"
             },
             {
               "$type": "Document",
@@ -144,8 +139,7 @@
               "RelativeToolTip": "AppDeliveyGo\\Core\\Command\\EditorCarrito.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T22:20:45.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T22:20:45.844Z"
             },
             {
               "$type": "Document",
@@ -157,8 +151,7 @@
               "RelativeToolTip": "AppDeliveyGo\\Core\\Command\\Carrito.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAmwC0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T22:20:34.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T22:20:34.935Z"
             },
             {
               "$type": "Document",
@@ -170,8 +163,7 @@
               "RelativeToolTip": "AppDeliveyGo\\Core\\Command\\Item.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T22:18:06.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T22:18:06.328Z"
             },
             {
               "$type": "Document",
@@ -183,21 +175,19 @@
               "RelativeToolTip": "AppDeliveyGo\\Core\\Contract\\ICarritoPort.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T22:16:15.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T22:16:15.863Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "AppDeliveyGo",
+              "Title": "AppDeliveyGo.csproj",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Proyecto Integral 2\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\AppDeliveyGo\\AppDeliveyGo.csproj",
               "RelativeDocumentMoniker": "AppDeliveyGo\\AppDeliveyGo.csproj",
               "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Proyecto Integral 2\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\AppDeliveyGo\\AppDeliveyGo.csproj",
               "RelativeToolTip": "AppDeliveyGo\\AppDeliveyGo.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-29T22:14:45.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T22:14:45.771Z"
             }
           ]
         }
