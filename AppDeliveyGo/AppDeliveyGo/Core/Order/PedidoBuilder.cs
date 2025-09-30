@@ -1,6 +1,6 @@
 ﻿using AppDeliveyGo;
 
-namespace DeliveryGo
+namespace AppDeliveryGo
 {
     public class PedidoBuilder : IPedidoBuilder
     {
@@ -28,10 +28,9 @@ namespace DeliveryGo
             return this;
         }
 
-        public IPedidoBuilder ConMonto(decimal monto)
+        public void ConMonto(decimal v)
         {
-            _monto = monto;
-            return this;
+            _monto = v;
         }
 
         public Pedido Build()

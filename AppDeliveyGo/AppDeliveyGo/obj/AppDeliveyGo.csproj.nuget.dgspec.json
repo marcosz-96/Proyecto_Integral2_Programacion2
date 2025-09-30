@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\OneDrive\\Desktop\\Actividad Integral 2\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\AppDeliveyGo\\AppDeliveyGo.csproj": {}
+    "C:\\Users\\Usuario\\OneDrive\\Desktop\\Proyecto Integral Programacion\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\AppDeliveyGo\\AppDeliveyGo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\OneDrive\\Desktop\\Actividad Integral 2\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\AppDeliveyGo\\AppDeliveyGo.csproj": {
+    "C:\\Users\\Usuario\\OneDrive\\Desktop\\Proyecto Integral Programacion\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\AppDeliveyGo\\AppDeliveyGo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Actividad Integral 2\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\AppDeliveyGo\\AppDeliveyGo.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Proyecto Integral Programacion\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\AppDeliveyGo\\AppDeliveyGo.csproj",
         "projectName": "AppDeliveyGo",
-        "projectPath": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Actividad Integral 2\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\AppDeliveyGo\\AppDeliveyGo.csproj",
+        "projectPath": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Proyecto Integral Programacion\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\AppDeliveyGo\\AppDeliveyGo.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Actividad Integral 2\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\AppDeliveyGo\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Proyecto Integral Programacion\\Proyecto_Integral2_Programacion2\\AppDeliveyGo\\AppDeliveyGo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

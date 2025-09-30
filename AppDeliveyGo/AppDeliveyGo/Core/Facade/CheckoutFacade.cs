@@ -1,6 +1,6 @@
 ﻿using AppDeliveyGo;
 
-namespace DeliveryGo
+namespace AppDeliveryGo
 {
     public class CheckoutFacade
     {
