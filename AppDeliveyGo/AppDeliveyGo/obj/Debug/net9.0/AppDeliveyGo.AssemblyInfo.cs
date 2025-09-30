@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppDeliveyGo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+915ceccd97db5fbf77214770605ac1eaf6b09492")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9e0e1d3ac9a6b6e683c4409325d25a8902c9aff")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppDeliveyGo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppDeliveyGo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
