@@ -78,27 +78,27 @@ El programa simula todo el flujo; no requiere conexión a internet ni datos real
 
 ## 👥 Integrantes del equipo
 
-- **Alumno A:
-Nombre: Courel Brian
-GitHub: (https://github.com/Briancourel)
+**Alumno A:**
+- Nombre: Courel Brian
+- GitHub: (https://github.com/Briancourel)
 
-- **Alumno B:
-Nombre: Gomez Marco
-GitHub: (https://github.com/marcosz-96)
+**Alumno B:**
+- Nombre: Gomez Marco
+- GitHub: (https://github.com/marcosz-96)
 
 ## 👥 Trabajos realizados
 
-- **Alumno A (Etapa 1 - Carrito & Command)**  
-Trabajo realizado: Implementé la gestión del carrito con patrón Command, incluyendo comandos para agregar/quitar/modificar ítems, soporte Undo/Redo y la clase EditorCarrito. También creé pruebas unitarias aisladas para esta etapa.
+- **Alumno A (Etapa 1 - Carrito & Command)**
+- Trabajo realizado: Implementé la gestión del carrito con patrón Command, incluyendo comandos para agregar/quitar/modificar ítems, soporte Undo/Redo y la clase EditorCarrito. También creé pruebas unitarias aisladas para esta etapa.
 
-- **Alumno B (Etapa 2 - Envío & Strategy + Singleton)**  
-Trabajo realizado: Desarrollé las estrategias de envío (EnvioMoto, EnvioCorreo, RetiroEnTienda) y el Singleton ConfigManager para manejar umbrales de envío gratis e IVA. Integré cálculos dinámicos en la Facade.
+- **Alumno B (Etapa 2 - Envío & Strategy + Singleton)**
+- Trabajo realizado: Desarrollé las estrategias de envío (EnvioMoto, EnvioCorreo, RetiroEnTienda) y el Singleton ConfigManager para manejar umbrales de envío gratis e IVA. Integré cálculos dinámicos en la Facade.
 
 - **Alumno A (Etapa 3 - Pago + Pedido + Facade)**
-Trabajo realizado: Implementé Factory para pagos, Adapter para Mercado Pago (SDK falsa), Decorators para IVA/cupones, Builder para Pedido, Observer para notificaciones y la CheckoutFacade para unir todo.
+- Trabajo realizado: Implementé Factory para pagos, Adapter para Mercado Pago (SDK falsa), Decorators para IVA/cupones, Builder para Pedido, Observer para notificaciones y la CheckoutFacade para unir todo.
 
 - **Alumno B: (Etapa 4 - UI y Refinamientos)**
-Trabajo realizado: Creación del menú interactivo en AppRunner, revisiones de código, integración final y documentación. Usando Git para merges y PRs.
+- Trabajo realizado: Creación del menú interactivo en AppRunner, revisiones de código, integración final y documentación. Usando Git para merges y PRs.
 
 ## 🧩 Patrones aplicados
 
