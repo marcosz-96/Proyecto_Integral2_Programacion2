@@ -159,5 +159,4 @@ Estos retos harían de DeliveryGo una base para un e-commerce real, enfocándono
 - El IVA y umbrales son configurables vía Singleton; modifícalos en `ConfigManager` para pruebas.
 - Para depuración, activa logs en `PedidoService` imprimiendo estados en consola.
 - Si encuentras bugs, abre un issue en GitHub. 
-- 
 - ¡Gracias por explorar DeliveryGo – un gran ejercicio en patrones de diseño! 🚀
