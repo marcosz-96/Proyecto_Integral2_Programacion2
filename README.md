@@ -50,23 +50,21 @@ Su modularidad lo hace versátil para cualquier escenario donde se necesite un f
 
 ## 🚀 Cómo usar la aplicación
 
-1. **Clonar o descargar el repositorio:**  
-   Abre una terminal y ejecuta:  
-  $ git clone git@github.com:Briancourel/Actividad-DeliveryGo.git
+1. **Clonar o descargar el repositorio:**
+- Abre una terminal y ejecuta: **git clone git@github.com:marcosz-96/Proyecto_Integral2_Programacion2.git**
 
   
-2. **Abrir el proyecto en Visual Studio**  
+3. **Abrir el proyecto en Visual Studio**  
 - Instala .NET SDK 9 desde [dotnet.microsoft.com](https://dotnet.microsoft.com/download).  
   - Abre la carpeta del proyecto en tu IDE.
 
 3. **Compilar el proyecto:**  
-En la terminal:  
-O usa el botón de "Build" en tu IDE (Ctrl + Shift + B en Visual Studio).
+En la terminal: usa el botón de "Build" en tu IDE (Ctrl + Shift + B en Visual Studio).
 
-4. **Ejecutar en consola (o ejecutar el debug del IDE):**  
-5. O presiona F5 en el IDE para modo debug.
+4. **Ejecutar en consola (o ejecutar el debug del IDE):**
+O presiona F5 en el IDE para modo debug.
 
-5. **Seguir las opciones del menú:**  
+6. **Seguir las opciones del menú:**  
 Se abrirá un menú interactivo en consola. Usa números para navegar:  
 - Agrega ítems al carrito (opción 1).  
 - Elige método de envío (opción 7).  
