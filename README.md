@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/22705130/README.md)
 # DeliveryGo
 
 **DeliveryGo** es un mini-ecommerce en consola desarrollado en C# puro, diseñado como una demostración educativa de patrones de diseño de software. Implementa un sistema de checkout simple donde los usuarios pueden gestionar un carrito de compras, seleccionar métodos de envío y pago, confirmar pedidos y recibir notificaciones de cambios de estado. El proyecto está dividido en etapas para simular el trabajo en equipo, enfocándose en patrones como Command, Strategy, Singleton, Factory, Adapter, Decorator, Builder, Observer y Facade.
